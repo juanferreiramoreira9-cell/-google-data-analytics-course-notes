@@ -1,0 +1,3 @@
+Data Analysis: the collection, transformation and organization of data in order to draw conclusions, prediction and insights. providing a thoughtful decision-making.
+
+Data ecosystems: the various elements that interact with one another in ordor to produce, manage, store, organiza, analyze and share data.
