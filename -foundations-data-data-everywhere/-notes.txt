@@ -3,3 +3,14 @@ Data Analysis: the collection, transformation and organization of data in order 
 Data ecosystems: the various elements that interact with one another in ordor to produce, manage, store, organiza, analyze and share data.
 
 Data Analytics: intend to predict future possibilities through the available data, in order to maintain and supply the necessary demand.
+
+analytical skills: the characteristics and qualities associated with solving problems using facts.
+
+technical mindset: the process associated with breaking down a problem into smaller orderly steps, in order to work with them in a logic way.
+
+data design: analytical skill that involves how you organize your data.
+ 
+understanding context: the analytical skill that has to do with how you group things into categories.
+
+
+Exploring core analytical skills: typical questions analysts ask to solve a problem, -1- what is the root cause of the problem? --> five whys. Gap analysis, the method of evaluating and examinating how a process Works currently in order to get where you want to be in the future --> "What did we not consider before"
